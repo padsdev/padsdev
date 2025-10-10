@@ -1,9 +1,7 @@
 # Hi 👋, I'm Augusto Padilla
-a 22-year-old Brazilian full-stack developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná) and working at LBM Engenharia (Campo Grande - MS).
+a 22-year-old Brazilian full-stack developer. I'm currently studying Computer Science at UTFPR (Universidade Tecnológica Federal do Paraná).
 
-- 🌱 I’m currently learning **Inserting Machine Learning at a Refactoring Tool**
-
-- 🏢 Working as a service provider to <a href="https://www.instagram.com/lbmengenhariams/"> LBM</a>
+- 🌱 I’m currently learning **Inserting Machine Learning at a Refactoring Tool** and improving my **Flutter** skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/devpadilha?tab=repositories](https://github.com/devpadilha?tab=repositories)
 
