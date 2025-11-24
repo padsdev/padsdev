@@ -1,7 +1,9 @@
 # Hi 👋, I'm Augusto Padilla
 a 22-year-old Brazilian full-stack developer. I'm a Computer Scientist from UTFPR (Universidade Tecnológica Federal do Paraná).
 
-- 🌱 I’m currently working and improving myself on **Inserting Machine Learning at a Refactoring and Measurement Tool** and improving my **Flutter** skills
+- 🌱 I’m currently working and improving myself on **Inserting Machine Learning at a Refactoring and Measurement Tool**
+
+- 🧠 I'm a Full Stack developer with experience using Laravel, Next.js, Node.js, React, Typescript, & Flutter/Dart
 
 - 👨‍💻 Some of my projects are available at [https://github.com/devpadilha?tab=repositories](https://github.com/devpadilha?tab=repositories)
 
