@@ -3,7 +3,7 @@ a 22-year-old Brazilian full-stack developer. I'm currently studying Computer Sc
 
 - 🌱 I’m currently learning **Inserting Machine Learning at a Refactoring Tool** and improving my **Flutter** skills
 
-- 👨‍💻 All of my projects are available at [https://github.com/devpadilha?tab=repositories](https://github.com/devpadilha?tab=repositories)
+- 👨‍💻 Some of my projects are available at [https://github.com/devpadilha?tab=repositories](https://github.com/devpadilha?tab=repositories)
 
 - 📫 How to reach me **fpadilha.augusto@gmail.com**
 
@@ -47,7 +47,7 @@ a 22-year-old Brazilian full-stack developer. I'm currently studying Computer Sc
 
 ## Statistics
 <div align="left">
-  <img alt="Augusto's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api?username=devpadilha&theme=ocean_dark&rank_icon=github">
+  <img alt="Augusto's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api?username=padsdev&theme=ocean_dark&rank_icon=github">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="Augusto's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpadilha&layout=compact&theme=ocean_dark&hide=html,TeX">
+  <img alt="Augusto's Github Stats" height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=padsdev&layout=compact&theme=ocean_dark&hide=html,TeX">
 </div>
