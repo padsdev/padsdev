@@ -1,5 +1,5 @@
 # Hi 👋, I'm Augusto Padilla
-a 22-year-old Brazilian full-stack developer. I'm a Computer Scientist from UTFPR (Universidade Tecnológica Federal do Paraná).
+a 23-year-old Brazilian full-stack developer. I'm a Computer Scientist from UTFPR (Universidade Tecnológica Federal do Paraná).
 
 - 🌱 I’m currently working and improving myself on **Inserting Machine Learning at a Refactoring and Measurement Tool**
 
